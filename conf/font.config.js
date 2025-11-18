@@ -23,21 +23,6 @@ module.exports = {
   FONT_SANS: [
     // '"LXGW WenKai"',
     '"LXGW WenKai"',
-    '"PingFang SC"',
-    '-apple-system',
-    'BlinkMacSystemFont',
-    '"Hiragino Sans GB"',
-    '"Segoe UI Emoji"',
-    '"Segoe UI Symbol"',
-    '"Segoe UI"',
-    '"Noto Sans SC"',
-    'HarmonyOS_Regular',
-    '"Helvetica Neue"',
-    'Helvetica',
-    '"Source Han Sans SC"',
-    'Arial',
-    'sans-serif',
-    '"Apple Color Emoji"'
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
